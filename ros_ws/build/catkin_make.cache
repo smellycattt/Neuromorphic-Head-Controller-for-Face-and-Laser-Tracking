@@ -1,0 +1,2 @@
+arbotix_head:camera_launch:eye_process:head_tf_fk
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/vaibhav/Desktop/spiking-oculomotor-head-control-main/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vaibhav/Desktop/spiking-oculomotor-head-control-main/ros_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/vaibhav/Desktop/spiking-oculomotor-head-control-main/ros_ws/install
+
+Name: camera_launch
+Description: Description of camera_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+<launch>
+  <node name="arbotix_single" ns="single_head" pkg="arbotix_python" type="arbotix_driver" output="screen">
+    <rosparam file="/home/vaibhav/Desktop/spiking-oculomotor-head-control-main/ros_ws/src/arbotix_head/config/single.yaml" command="load" />
+  </node>
+</launch>
